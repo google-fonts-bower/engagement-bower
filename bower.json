@@ -1,0 +1,17 @@
+{
+    "name": "engagement-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Astigmatic"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/engagement-bower.git"
+    },
+    "description": "Engagement font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
